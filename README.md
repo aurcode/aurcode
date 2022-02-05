@@ -1,7 +1,7 @@
 <h3 align="left">Hello 👋, I'm Aurelio Márquez</h3>
 
 <!--- - 🌷 I'm a Idk. --->
-- 👨🏻‍🎓Currently studying for an engineer mechatronic and software.
+- 👨🏻‍🎓Currently studying mechatronic engineer and software engineer.
 - 📈 Interested in Data science and Machine learning.
 - I ❤️ to play tennis
 <!---- ✨ Constantly learning and taking notes on [my Blog](www.url.com).   ---->
