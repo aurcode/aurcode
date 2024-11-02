@@ -34,4 +34,6 @@
 
 <h4 align="left"> 🎈 Let's collaborate and innovate together! Connect with me to explore the depths of Data Science. </h4>
 
-<a href="https://www.linkedin.com/in/aurcode/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0066FF?logo=linkedin&logoColor=white"></a>    <a href="mailto:aurelio3927@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-0066FF?logo=gmail&logoColor=white"></a>   <a href="https://www.twitter.com/aurcode_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-0066FF?logo=twitter&logoColor=white"></a>
+<!--a href="https://www.linkedin.com/in/aurcode/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0066FF?logo=linkedin&logoColor=white"></a -->    
+<a href="mailto:aurelio3927@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-0066FF?logo=gmail&logoColor=white"></a>   
+<!-- a href="https://www.twitter.com/aurcode_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-0066FF?logo=twitter&logoColor=white"></a-->
