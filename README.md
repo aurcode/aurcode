@@ -2,7 +2,7 @@
 
 - 🌍A Data Scientist and Statistician with a passion for problem solving.
 - 💼 Currently working on deep-learning (PyTorch) and LLM.
-- 👨🏻‍🎓Studying Data Science Engineer at Bejing Institute of Technology.
+- 👨🏻‍🎓Studying Artificial Intelligence Engineer.
 - 🚀 Always exploring new ways to solve real-world problems through data-driven insights and cutting-edge technology.
 <!---- ✨ Constantly learning and taking notes on [my Blog](www.url.com).   ---->
 
