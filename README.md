@@ -1,4 +1,4 @@
-<h3 align="left">Hello 👋, I'm Aurelio Márquez</h3>
+<h3 align="left">Hello 👋, I'm Aurcode</h3>
 
 - 🌍A Data Scientist and Statistician with a passion for problem solving.
 - 💼 Currently working on deep-learning (PyTorch) and LLM.
